@@ -1,1 +1,1 @@
-# tutor
+# Getting started with github
