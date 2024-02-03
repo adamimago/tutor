@@ -10,7 +10,11 @@
 # Collaboration time 
 
 * Login into your github account, navigate to the repository you want to add a collaborator,
-	request for the collaborator name and then sent invite.
 
 # Merge Conflict
 * Merge conflict occures when a version of a file has been submitted that is newer than the version of the file  you have started to base your changes on.
+
+Merge conflict.
+
+When there different snapshot of a file, and git does not which one of it to keep
+
