@@ -12,7 +12,7 @@
 * Login into your github account, navigate to the repository you want to add a collaborator,
 
 # Merge Conflict
-* Merge conflict occures when a version of a file has been submitted that is newer than the version of the file  you have started to base your changes on.
+* Merge conflict occurs when a version of a file has been submitted that is newer than the version of the file  you have started to base your changes on.
 
 Merge conflict.
 
